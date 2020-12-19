@@ -1,0 +1,70 @@
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe.config
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.pdb
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csprojAssemblyReference.cache
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Properties.Resources.resources
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.GenerateResource.cache
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.CoreCompileInputs.cache
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.exe
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.pdb
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Login.resources
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Registration.resources
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\bin\Debug\Database.mdf
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\bin\Debug\Database_log.ldf
+C:\Users\Janusz\Desktop\Projects\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Chat.resources
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Database.mdf
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Database_log.ldf
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe.config
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csprojAssemblyReference.cache
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Chat.resources
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Login.resources
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Registration.resources
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Properties.Resources.resources
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.GenerateResource.cache
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.exe
+C:\Users\Agata\Desktop\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csprojAssemblyReference.cache
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Chat.resources
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Login.resources
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Registration.resources
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Properties.Resources.resources
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.GenerateResource.cache
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.exe
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Database.mdf
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Database_log.ldf
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe.config
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe
+C:\Users\Agata\Documents\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Database.mdf
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Database_log.ldf
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe.config
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csprojAssemblyReference.cache
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Chat.resources
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Login.resources
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Registration.resources
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Properties.Resources.resources
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.GenerateResource.cache
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.exe
+C:\Users\Agata\Documents\Projects\Project\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\bin\Debug\Database.mdf
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\bin\Debug\Database_log.ldf
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe.config
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.exe
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\bin\Debug\Chat Application For PC.pdb
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csprojAssemblyReference.cache
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Chat.resources
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Login.resources
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Registration.resources
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat_Application_For_PC.Properties.Resources.resources
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.GenerateResource.cache
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.exe
+C:\Users\Agata\Desktop\Chat Application For PC\Chat Application For PC\obj\Debug\Chat Application For PC.pdb
